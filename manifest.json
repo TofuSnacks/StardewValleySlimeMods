@@ -1,0 +1,10 @@
+{
+  "Name": "SlimeMap",
+  "Author": "Tofu",
+  "Version": "0.0.1",
+  "Description": "TBD",
+  "UniqueID": "Tofu.SlimeMap",
+  "EntryDll": "SlimeMap.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": [ "" ]
+}
